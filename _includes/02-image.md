@@ -1,1 +1,1 @@
-![Image of Shaniqua Sherman] (https://www.pinterest.com/niquajanae90/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
