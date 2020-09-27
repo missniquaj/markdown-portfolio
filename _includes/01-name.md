@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Shaniqua Sherman
+## September 27, 2020
+#### CSC 200
+###### GitHub
